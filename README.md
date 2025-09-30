@@ -10,4 +10,14 @@ step1:
 
 step2,3:
 
-<img width="960" height="540" alt="2025-09-30 (2)" src="https://github.com/user-attachments/assets/6855241b-c638-4d3b-9fee-ceeba68593c0" />
+<img width="960" height="540" alt="2025-09-30 (4)" src="https://github.com/user-attachments/assets/b115e798-e4f7-4cd2-85a6-1b5f223ae86f" />
+
+
+step4,5:
+
+<img width="960" height="540" alt="2025-09-30 (3)" src="https://github.com/user-attachments/assets/0a14ece3-4f77-4e40-9e73-b103ca17ff74" />
+
+---
+task2
+
+step1:
