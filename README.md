@@ -97,4 +97,13 @@ output:
 ---
 task6
 
-step1:
+step1,2:
+
+<img width="960" height="540" alt="2025-09-30 (26)" src="https://github.com/user-attachments/assets/dd814d12-8da8-4777-9976-b269828a8fbf" />
+
+<img width="960" height="540" alt="2025-09-30 (28)" src="https://github.com/user-attachments/assets/0076a019-34c8-4599-8c69-11a33a523d51" />
+
+<img width="960" height="540" alt="2025-09-30 (27)" src="https://github.com/user-attachments/assets/bff2b71b-b690-454f-8356-04679f3d08f0" />
+
+
+step3:
