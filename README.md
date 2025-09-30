@@ -123,3 +123,8 @@ step3:
 task7
 
 step1:
+
+<img width="960" height="540" alt="2025-09-30 (35)" src="https://github.com/user-attachments/assets/a1e85ac7-7d69-45f0-96c5-b784ba842035" />
+
+
+step2:
