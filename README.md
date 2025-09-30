@@ -21,3 +21,5 @@ step4,5:
 task2
 
 step1:
+
+<img width="960" height="540" alt="2025-09-30 (6)" src="https://github.com/user-attachments/assets/fd89ccc1-812a-4fc5-bf65-d6b09e34e0da" />
