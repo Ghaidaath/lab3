@@ -115,3 +115,11 @@ step3:
 <img width="960" height="540" alt="2025-09-30 (31)" src="https://github.com/user-attachments/assets/68ce156c-7c30-41a0-af0e-470644f7d77c" />
 
 <img width="960" height="540" alt="2025-09-30 (32)" src="https://github.com/user-attachments/assets/6b1afb06-a6e5-4e12-ad56-aeb5061c5a99" />
+
+<img width="960" height="540" alt="2025-09-30 (34)" src="https://github.com/user-attachments/assets/1d4296da-098a-43b0-9e0e-da6ac73b3592" />
+
+
+---
+task7
+
+step1:
