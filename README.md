@@ -5,7 +5,7 @@ task1
 
 step1:
 
-<img width="960" height="540" alt="2025-09-30" src="https://github.com/user-attachments/assets/db0ee5e4-692d-4697-8fc2-92c8e47cb03f" />
+<img width="960" height="540" alt="2025-09-30 (5)" src="https://github.com/user-attachments/assets/e2f54567-0753-4406-b1a8-afe0651b3c63" />
 
 
 step2,3:
