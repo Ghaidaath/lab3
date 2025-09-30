@@ -128,3 +128,7 @@ step1:
 
 
 step2:
+
+<img width="960" height="540" alt="2025-09-30 (36)" src="https://github.com/user-attachments/assets/8c162139-269d-4c5f-ad57-f47ddc141be8" />
+
+step3:
