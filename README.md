@@ -45,8 +45,24 @@ step2:
 
 <img width="960" height="540" alt="2025-09-30 (12)" src="https://github.com/user-attachments/assets/0fa6e2e6-6606-4858-8d8c-a8e2d12cd29a" />
 
+
 step3:
 
 <img width="960" height="540" alt="2025-09-30 (13)" src="https://github.com/user-attachments/assets/ef2ad80f-da55-49f7-99f9-83358b850107" />
 
 <img width="960" height="540" alt="2025-09-30 (14)" src="https://github.com/user-attachments/assets/e83db260-c0bd-4805-9a32-3c3a41fe1e76" />
+
+---
+task4
+
+step1,2:
+
+<img width="960" height="540" alt="2025-09-30 (15)" src="https://github.com/user-attachments/assets/a7d57eea-91bf-4213-bcf3-b893cb3b75d5" />
+
+<img width="960" height="540" alt="2025-09-30 (16)" src="https://github.com/user-attachments/assets/4e5ff34c-4c21-4dee-bdff-904a7b86f9a0" />
+
+step3:
+
+<img width="960" height="540" alt="2025-09-30 (17)" src="https://github.com/user-attachments/assets/01685f3c-73db-4496-8a9a-254a135c22a8" />
+
+step4:
