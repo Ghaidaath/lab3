@@ -31,3 +31,16 @@ step2:
 <img width="960" height="540" alt="2025-09-30 (9)" src="https://github.com/user-attachments/assets/ee42e201-2384-474a-8453-d52b96000438" />
 
 <img width="960" height="540" alt="2025-09-30 (7)" src="https://github.com/user-attachments/assets/7bd6497e-4cb5-4032-8774-65a307ba4df2" />
+
+
+---
+task3
+
+step1:
+
+<img width="960" height="540" alt="2025-09-30 (11)" src="https://github.com/user-attachments/assets/eab2df62-340f-4085-acdf-3c4e3f758dc5" />
+
+
+step2:
+
+<img width="960" height="540" alt="2025-09-30 (12)" src="https://github.com/user-attachments/assets/0fa6e2e6-6606-4858-8d8c-a8e2d12cd29a" />
