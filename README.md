@@ -84,6 +84,9 @@ step2:
 
 <img width="960" height="540" alt="2025-09-30 (22)" src="https://github.com/user-attachments/assets/d3b7e726-4e7d-460c-9259-ebc9225e1dc0" />
 
+<img width="960" height="540" alt="2025-09-30 (25)" src="https://github.com/user-attachments/assets/15f27391-a877-4555-bdc4-df195aa3464b" />
+
+
 output:
 
 <img width="960" height="540" alt="2025-09-30 (23)" src="https://github.com/user-attachments/assets/efa2606f-c77d-4128-b01b-b450f7463625" />
