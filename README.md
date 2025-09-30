@@ -75,3 +75,23 @@ step4,5:
 
 ---
 task5
+
+step1:
+
+<img width="960" height="540" alt="2025-09-30 (21)" src="https://github.com/user-attachments/assets/9c213467-6def-491a-aeba-3d9b2a2fe969" />
+
+step2:
+
+<img width="960" height="540" alt="2025-09-30 (22)" src="https://github.com/user-attachments/assets/d3b7e726-4e7d-460c-9259-ebc9225e1dc0" />
+
+output:
+
+<img width="960" height="540" alt="2025-09-30 (23)" src="https://github.com/user-attachments/assets/efa2606f-c77d-4128-b01b-b450f7463625" />
+
+<img width="960" height="540" alt="2025-09-30 (24)" src="https://github.com/user-attachments/assets/b7e7bde7-c3d7-47ae-879d-13771c35a4be" />
+
+
+---
+task6
+
+step1:
